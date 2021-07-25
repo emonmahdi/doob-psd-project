@@ -1,0 +1,5 @@
+font-family name: WorkSans semibold
+button color: #ff3946
+text main color: #464e90
+blog bg hover color: #ff3946
+footer bg color: #314584

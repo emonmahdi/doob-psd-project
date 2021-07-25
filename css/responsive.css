@@ -1,0 +1,48 @@
+@media screen and (max-width:992px) {
+    .doob-logo{     
+        font-size: 40px; 
+    }
+    .header-title{
+        font-size: 53px; 
+    }
+    .header-top-img{
+        margin-top: 50px;
+    }
+    header{  
+        background-size: 600px;
+        background-position: right bottom;
+    }
+    .header-top-img{
+        width: 60%; 
+        margin-left: 110px;
+    }
+}
+@media screen and (max-width:768px){
+    .doob-btn-parimary{ 
+        padding:6px 20px;
+        border-radius: 30px;
+        color:#fff;
+        font-size: 16px; 
+    }
+    .doob-get-btn{
+        z-index: 99999;
+        color:#000;
+    }
+}
+@media screen and (max-width:500px){
+    .doob-logo{     
+        font-size: 30px; 
+    }
+    .navbar-nav{
+        margin-left:  20px!important; 
+   }  
+    .header-title{
+        font-size: 43px; 
+    }
+    .service-title,.company-content h2, #work-section h2, #blog-section h2, #contact-section h2{
+        font-size: 34px;
+    }
+    .footer-content h2{
+        font-size: 20px;
+    }
+}
